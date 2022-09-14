@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(50, 179, 205);
+}
+h2{
+    font-size: 45px;
+    color:red;
+}
+input{
+    width: 80px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 6px;
+    border-style: none;
+}
+.btn:hover{
+    background-color: orangered;
+    cursor: pointer;
+}
